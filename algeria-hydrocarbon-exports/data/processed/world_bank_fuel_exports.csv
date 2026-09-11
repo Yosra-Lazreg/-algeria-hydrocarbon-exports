@@ -1,0 +1,9 @@
+year,fuel_exports_pct_merchandise_exports,source_note
+2010,98.3108761995675,World Bank API snapshot; refresh with src.refresh_data.py
+2011,98.3333229077681,World Bank API snapshot; refresh with src.refresh_data.py
+2012,98.4004104735679,World Bank API snapshot; refresh with src.refresh_data.py
+2013,98.3397689163232,World Bank API snapshot; refresh with src.refresh_data.py
+2014,97.228399822397,World Bank API snapshot; refresh with src.refresh_data.py
+2015,95.839787593179,World Bank API snapshot; refresh with src.refresh_data.py
+2016,95.3110605757096,World Bank API snapshot; refresh with src.refresh_data.py
+2017,96.1115601990579,World Bank API snapshot; refresh with src.refresh_data.py
